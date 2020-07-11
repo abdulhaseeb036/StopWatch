@@ -12,6 +12,8 @@ var lapsContainer = document.querySelector('.laps');//we take class in html and 
 function start(){
     if(!timer){
         timer = setInterval(run,10);  
+        fuck
+        
     }
 
 }
